@@ -1,0 +1,11 @@
+window_sizes 1152 806 270 876 612 120
+diagrams
+  active  objectdiagram_ref 128025 // Categorias
+    700 489 100 4 0 0
+end
+show_stereotypes
+selected objectdiagram_ref 128025 // Categorias
+open
+  classview_ref 128025 // Categorias
+end
+end
